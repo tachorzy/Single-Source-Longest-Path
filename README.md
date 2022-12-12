@@ -12,13 +12,13 @@ note: The graph nodes are labeled 0, 1, 2, ..., N-1; all weights are positive in
 
 ### Example 1
 Input:
-4 5
-0 3
-0 1 10
-0 2 20
-1 3 30
-2 3 15
-0 3 60
+4 5<br>
+0 3<br>
+0 1 10<br>
+0 2 20<br>
+1 3 30<br>
+2 3 15<br>
+0 3 60<br>
 
 Output:
 60
