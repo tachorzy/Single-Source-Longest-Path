@@ -5,10 +5,10 @@ Given a weighted acyclic directed graph (DAG) with positive integer weights, and
 
 Input format:
 
-line 1: [number of nodes N] [number of edges M]
-line 2: i j
-line 3 to M+2: [node1] [node2] [weight of edge node1->node2]
-note: The graph nodes are labeled 0, 1, 2, ..., N-1; all weights are positive integers between 1 and 10000
+line 1: [number of nodes N] [number of edges M]<br>
+line 2: i j<br>
+line 3 to M+2: [node1] [node2] [weight of edge node1->node2]<br>
+note: The graph nodes are labeled 0, 1, 2, ..., N-1; all weights are positive integers between 1 and 10000<br>
 
 ### Example 1
 Input:
